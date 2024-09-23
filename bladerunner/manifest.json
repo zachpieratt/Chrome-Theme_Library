@@ -1,0 +1,75 @@
+{
+    "manifest_version": 3,
+    "name": "Blade Runner Chrome Theme",
+    "version": "1.0.0",
+    "Description": "A Blade Runner Influenced chrome theme. Theme is dark colored with red accents.",
+    "theme": {
+        "images": {
+            "theme_ntp_background": "imgbg.jpg",
+            "theme_ntp_attribution": "logo.png"
+        },
+        "colors": {
+            "frame": [
+                18,
+                18,
+                18
+            ],
+            "toolbar": [
+                0,
+                0,
+                0
+            ],
+            "background_tab_text": [
+                200,
+                200,
+                200
+            ],
+            "bookmark_text": [
+                255,
+                0,
+                0
+            ],
+            "tab_text": [
+                255,
+                0,
+                0
+            ],
+            "omnibox_text": [
+                255,
+                0,
+                0
+            ],
+            "omnibox_background": [
+                30,
+                30,
+                30
+            ],
+            "toolbar_text": [
+                255,
+                0,
+                0
+            ],
+            "button_text": [
+                255,
+                0,
+                0
+            ],
+            "button_background": [
+                255,
+                0,
+                0
+            ]
+        }
+    },
+    "properties": {
+        "ntp_background_alignment": "leff top",
+        "ntp_background_repeat": "no-repeat"
+    },
+    "tints": {
+        "buttons": [
+            0.33,
+            0.5,
+            0
+        ]
+    }
+}
