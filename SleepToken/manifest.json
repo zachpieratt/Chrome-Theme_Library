@@ -1,0 +1,48 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Sleep Token Chrome Theme",
+    "description": "A dark-themed Chrome experience featuring the band Sleep Token",
+    "theme": {
+        "images": {
+            "theme_frame": "images/sleepTokenBackground.jpg",
+            "theme_ntp_background": "images/sleepTokenBackground.jpg",
+            "theme_ntp_attribution": "images/logo.png"
+        },
+        "colors": {
+            "frame": [
+                0,
+                0,
+                0
+            ],
+            "toolbar": [
+                24,
+                24,
+                24
+            ],
+            "tab_text": [
+                255,
+                255,
+                255
+            ],
+            "bookmark_text": [
+                255,
+                255,
+                255
+            ],
+            "button_background": [
+                36,
+                36,
+                36
+            ]
+        }
+    },
+    "action": {
+        "default_icon": {
+            "16": "icons/sleep_token_logo16.png",
+            "32": "icons/sleep_token_logo32.png",
+            "48": "icons/sleep_token_logo48.png",
+            "128": "icons/sleep_token_logo128.png"
+        }
+    }
+}
