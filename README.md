@@ -3,5 +3,5 @@ This is mostly a library for me to review and fix existing and in progress chrom
 Blade Runner: <a href='https://chromewebstore.google.com/detail/blade-runner-chrome-theme/hhokgonhmnigmfgpbfjenabkddbgmohk?authuser=1&hl=en'>Store Link</a>
 ![image](https://github.com/user-attachments/assets/bbd567c6-f381-4dbb-a880-58d698c6e5a9)
 
-Sleep Token: <a href="https://chromewebstore.google.com/detail/sleep-token-chrome-theme/flmikamoipjdpofeacmcikblbjghnnce?authuser=1&hl=en"Store Link</a>
+Sleep Token: <a href="https://chromewebstore.google.com/detail/sleep-token-chrome-theme/flmikamoipjdpofeacmcikblbjghnnce?authuser=1&hl=en">Store Link</a>
 ![image](https://github.com/user-attachments/assets/204ab217-174b-4a8e-a62f-9e16ffdc2fbc)
